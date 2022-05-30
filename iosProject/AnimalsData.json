@@ -1,0 +1,639 @@
+{
+    "class": [
+      {
+          "className": "Млекопитающие",
+          "typeOfAnimal": [
+            {
+                "typeName": "Грызуны",
+                "listOfAnimal": [
+                {
+                    "id": 1,
+                    "nameAnimal": "",
+                    "detail": {
+                        "weight": "",
+                        "lifeExpectancy": "",
+                        "nutrition": "",
+                        "lifeStyle": "",
+                        "reproduction": 1,
+                        "fact": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "nameAnimal": "",
+                    "detail": {
+                        "weight": "",
+                        "lifeExpectancy": "",
+                        "nutrition": "",
+                        "lifeStyle": "",
+                        "reproduction": 1,
+                        "fact": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "nameAnimal": "",
+                    "detail": {
+                        "weight": "",
+                        "lifeExpectancy": "",
+                        "nutrition": "",
+                        "lifeStyle": "",
+                        "reproduction": 1,
+                        "fact": 1
+                    }
+                }
+            ]
+            },
+            {
+                "typeName": "Приматы",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Парнокопытные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Хищные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Сумчатые",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            }
+          ]
+      },
+      {
+          "className": "Птицы",
+          "typeOfAnimal": [
+            {
+                "typeName": "Аистообразные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Гусеобразные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Курообразные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Страусообразные",
+                "listOfAnimal": [
+                {
+                    "id": 1,
+                    "nameAnimal": "",
+                    "detail": {
+                        "weight": "",
+                        "lifeExpectancy": "",
+                        "nutrition": "",
+                        "lifeStyle": "",
+                        "reproduction": 1,
+                        "fact": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "nameAnimal": "",
+                    "detail": {
+                        "weight": "",
+                        "lifeExpectancy": "",
+                        "nutrition": "",
+                        "lifeStyle": "",
+                        "reproduction": 1,
+                        "fact": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "nameAnimal": "",
+                    "detail": {
+                        "weight": "",
+                        "lifeExpectancy": "",
+                        "nutrition": "",
+                        "lifeStyle": "",
+                        "reproduction": 1,
+                        "fact": 1
+                    }
+                }
+                ]
+            },
+            {
+                "typeName": "Совообразные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            }
+          ]
+      },
+      {
+          "className": "Рыбы",
+          "typeOfAnimal": [
+            {
+                "typeName": "Костные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Хрящевые",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Угреобразные",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            }
+          ]
+      },
+      {
+          "className": "Земноводные",
+          "typeOfAnimal": [
+            {
+                "typeName": "Бесхвостые",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "typeName": "Хвостатые",
+                "listOfAnimal": [
+                    {
+                        "id": 1,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "nameAnimal": "",
+                        "detail": {
+                            "weight": "",
+                            "lifeExpectancy": "",
+                            "nutrition": "",
+                            "lifeStyle": "",
+                            "reproduction": 1,
+                            "fact": 1
+                        }
+                    }
+                ]
+            }
+          ]
+      }
+  ]
+  }
