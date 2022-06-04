@@ -73,18 +73,6 @@ class DogTVC: UITableViewCell {
     
     func configure(with viewModel: Dogs) {
         dogTitleLabel.text = viewModel.name
-        
-//        if dog!.reference_image_id != nil {
-//            if let url = URL(string: "https://cdn2.thedogapi.com/images/\((dog!.reference_image_id)!).jpg" ) {
-//                URLSession.shared.dataTask(with: url) { data, _, err in
-//                    guard let data = data, err == nil else {return}
-//                    DispatchQueue.main.async {
-//                        self.imageView.image = UIImage(data: data)
-//                    }
-//                }.resume()
-//            }
-//        }
-        
     }
     
     

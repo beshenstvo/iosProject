@@ -58,7 +58,9 @@ class DogListVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
         view.backgroundColor = .systemBackground
         
         getDogsList() { [weak self] in
-            self?.tableView.reloadData()
+            DispatchQueue.main.async {
+                self?.tableView.reloadData()
+            }
         }
         
         // Do any additional setup after loading the view.

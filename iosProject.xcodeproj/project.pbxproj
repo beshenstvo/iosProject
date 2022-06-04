@@ -19,7 +19,6 @@
 		B315DF2C281EC54700185C35 /* iosProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315DF2B281EC54700185C35 /* iosProjectUITestsLaunchTests.swift */; };
 		B315DF39281ECA9E00185C35 /* JSONCaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315DF38281ECA9E00185C35 /* JSONCaller.swift */; };
 		B31B5052283BC57500F69650 /* CatTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B31B5051283BC57500F69650 /* CatTVC.swift */; };
-		B334D9CA282401380032808F /* AnimalTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B334D9C9282401380032808F /* AnimalTableViewCell.swift */; };
 		B36577BF2844D9450025A034 /* AboutVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B36577BE2844D9450025A034 /* AboutVC.swift */; };
 		B36577C42844E8520025A034 /* DogListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B36577C32844E8520025A034 /* DogListVC.swift */; };
 		B36577C62844E9460025A034 /* DogTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B36577C52844E9460025A034 /* DogTVC.swift */; };
@@ -60,7 +59,6 @@
 		B315DF2B281EC54700185C35 /* iosProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B315DF38281ECA9E00185C35 /* JSONCaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONCaller.swift; sourceTree = "<group>"; };
 		B31B5051283BC57500F69650 /* CatTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatTVC.swift; sourceTree = "<group>"; };
-		B334D9C9282401380032808F /* AnimalTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalTableViewCell.swift; sourceTree = "<group>"; };
 		B36577BE2844D9450025A034 /* AboutVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutVC.swift; sourceTree = "<group>"; };
 		B36577C32844E8520025A034 /* DogListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogListVC.swift; sourceTree = "<group>"; };
 		B36577C52844E9460025A034 /* DogTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogTVC.swift; sourceTree = "<group>"; };
@@ -92,11 +90,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		539AEAA4284B72F60067CC01 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				B31B5051283BC57500F69650 /* CatTVC.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		539AEAA5284B73050067CC01 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				B36577C52844E9460025A034 /* DogTVC.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		B312C51528325F0700EFD217 /* View */ = {
 			isa = PBXGroup;
 			children = (
 				B36577BE2844D9450025A034 /* AboutVC.swift */,
-				B31B5051283BC57500F69650 /* CatTVC.swift */,
 				B312C51228325C9000EFD217 /* CatListVC.swift */,
 			);
 			path = View;
@@ -143,7 +156,6 @@
 				B315DF11281EC54700185C35 /* Assets.xcassets */,
 				B315DF13281EC54700185C35 /* LaunchScreen.storyboard */,
 				B315DF16281EC54700185C35 /* Info.plist */,
-				B334D9C9282401380032808F /* AnimalTableViewCell.swift */,
 			);
 			path = iosProject;
 			sourceTree = "<group>";
@@ -168,6 +180,7 @@
 		B36577C02844E6BA0025A034 /* Cats */ = {
 			isa = PBXGroup;
 			children = (
+				539AEAA4284B72F60067CC01 /* ViewModel */,
 				B312C51528325F0700EFD217 /* View */,
 			);
 			path = Cats;
@@ -176,6 +189,7 @@
 		B36577C12844E8270025A034 /* Dogs */ = {
 			isa = PBXGroup;
 			children = (
+				539AEAA5284B73050067CC01 /* ViewModel */,
 				B36577C22844E83F0025A034 /* View */,
 			);
 			path = Dogs;
@@ -185,7 +199,6 @@
 			isa = PBXGroup;
 			children = (
 				B36577C72844F7EA0025A034 /* AboutDogVC.swift */,
-				B36577C52844E9460025A034 /* DogTVC.swift */,
 				B36577C32844E8520025A034 /* DogListVC.swift */,
 			);
 			path = View;
@@ -330,7 +343,6 @@
 				B36577C62844E9460025A034 /* DogTVC.swift in Sources */,
 				B315DF09281EC54500185C35 /* AppDelegate.swift in Sources */,
 				B36577BF2844D9450025A034 /* AboutVC.swift in Sources */,
-				B334D9CA282401380032808F /* AnimalTableViewCell.swift in Sources */,
 				B31B5052283BC57500F69650 /* CatTVC.swift in Sources */,
 				B315DF0B281EC54500185C35 /* SceneDelegate.swift in Sources */,
 			);

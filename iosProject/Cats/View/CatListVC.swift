@@ -24,7 +24,6 @@ class CatListVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
     
     func getCatsList(completion: @escaping () -> Void ) {
-//        let urlString = "https://api.thecatapi.com/v1/breeds/search?q=air&x-api-key=4d962ba8-ab05-4347-ad30-b12c816a4ded"
         let urlString = "https://api.thecatapi.com/v1/breeds?x-api-key=4d962ba8-ab05-4347-ad30-b12c816a4ded"
 
         guard let url = URL(string: urlString) else {return}
@@ -62,7 +61,9 @@ class CatListVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
         view.backgroundColor = .systemBackground
         
         getCatsList() { [weak self] in
-            self?.tableView.reloadData()
+            DispatchQueue.main.async {
+                self?.tableView.reloadData()
+            }
         }
         // Do any additional setup after loading the view.
     }

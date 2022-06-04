@@ -48,7 +48,6 @@ class AboutVC: UIViewController {
             self.imageView.image = UIImage(named: "noPhoto")
         }
         
-        print(cat)
         // Do any additional setup after loading the view.
     }
     
